@@ -1,8 +1,9 @@
 # Running the program
 
 Node.js is required to run this program - download node here if required https://nodejs.org/en/download/
+Typescript is also required to run this program - install instructions here if required https://www.npmjs.com/package/typescript
 
-* In the command line navigate to the directory `Kraken-Tech-Test`
+* In the command line navigate to the root directory of this project
 * To install all dependencies run command:  `npm install`
 * To transpile the typescript code to javascript run command: `tsc`
 * Naviagte to src directory: `cd src`
